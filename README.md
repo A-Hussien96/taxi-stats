@@ -1,3 +1,5 @@
+[![MySeera Portfolio](https://api.myseera.com/api/badge/ahussein.svg)](https://ahussein.myseera.com?ref=badge)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
